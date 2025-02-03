@@ -19,3 +19,8 @@ npm run android
 
 # OR using Yarn
 yarn android
+# using npm
+npm run ios
+
+# OR using Yarn
+yarn ios
